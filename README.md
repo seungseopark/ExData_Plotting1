@@ -52,24 +52,25 @@ For each plot you should
 
 When you are finished with the assignment, push your git repository to GitHub so that the GitHub version of your repository is up to date. There should be four PNG files and four R code files.
 
-### The four plots with comparisons of the Instructor's and the R codes
 
-#### Plot 1 / [plot1.R](plot1.R)
+## The four plots with comparisons of the Instructor's and the R codes
+
+### Plot 1 / [plot1.R](plot1.R)
 Instructor's | Mine
 ------- | --------
 ![plot1in](figure/unnamed-chunk-2.png) | ![plot1my](plot1.png)
 
-#### Plot 2 / [plot2.R](plot2.R)
+### Plot 2 / [plot2.R](plot2.R)
 Instructor's | Mine
 ------- | --------
 ![plot2in](figure/unnamed-chunk-3.png) | ![plot2my](plot2.png)
 
-#### Plot 3 / [plot3.R](plot3.R)
+### Plot 3 / [plot3.R](plot3.R)
 Instructor's | Mine
 ------- | --------
 ![plot3in](figure/unnamed-chunk-4.png) | ![plot3my](plot3.png)
 
-#### Plot 4 / [plot4.R](plot4.R)
+### Plot 4 / [plot4.R](plot4.R)
 Instructor's | Mine
 ------- | --------
 ![plot4in](figure/unnamed-chunk-5.png) | ![plot4my](plot4.png)
